@@ -18,6 +18,7 @@ export default function App() {
           <a
             href="https://github.com/irinooky/weather-react-app"
             target="_blank"
+            className=""
           >
             {" "}
             open-sourced on GitHub
