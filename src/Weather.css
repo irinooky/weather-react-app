@@ -24,3 +24,7 @@
   line-height: 15px;
   white-space: nowrap;
 }
+.Weather {
+  border: 1px solid rgb(220, 220, 220);
+  border-radius: 4px;
+}
