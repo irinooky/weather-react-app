@@ -46,9 +46,9 @@
   font-size: 64px;
   color: rgb(33, 33, 33);
 }
-.Weather img {
-  height: 64px;
-  margin-bottom: 36px;
+.Weather canvas {
+  width: 40px;
+  margin-top: 10px;
   margin-right: 10px;
 }
 .Weather .col-6 {
