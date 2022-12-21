@@ -47,8 +47,9 @@
   color: rgb(33, 33, 33);
 }
 .Weather canvas {
-  width: 60px;
-  margin-top: 10px;
+  width: 50px;
+  height: 50px;
+  margin-top: 20px;
   margin-right: 10px;
 }
 .Weather .col-6 {
