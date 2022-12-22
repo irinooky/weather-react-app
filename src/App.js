@@ -10,7 +10,11 @@ export default function App() {
 
         <footer>
           This project is created by{""}
-          <a href="https://www.instagram.com/irinooky/" target="_blank">
+          <a
+            href="https://www.instagram.com/irinooky/"
+            target="_blank"
+            rel="noreferrer"
+          >
             {" "}
             Irina Bernaz
           </a>{" "}
